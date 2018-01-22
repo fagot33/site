@@ -1,0 +1,64 @@
+
+
+
+*{
+  margin:0; padding:0;
+  font-size:inherit;
+  color:inherit;
+  -webkit-font-smoothing: antialiased;
+}
+button::-moz-focus-inner {padding:0;border:0;}
+a {outline:none;
+  text-decoration:none;
+  background-color:transparent;
+  font-size:11px;
+  color:#2d2a2b ;
+}
+
+
+
+
+body {
+  height: auto !important;
+  min-height: 100%;
+  position: relative;
+  background-size: contain;
+
+  font-size:56px;
+  text-align: center;
+  color: green;
+
+
+
+}
+
+.logo{
+  display: inline-block;
+  float: left;
+  margin-left: 22px;
+  margin-top: 19px;
+  margin-bottom: 26px;
+
+}
+
+.fa{
+  font-size: 20px;
+  color: white;
+  line-height: 30px;
+}
+.fa-facebook{
+  background-color:#ac1f28;
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block;
+  margin-right: 19px;
+  margin-top: 33px;
+
+
+
+}
+.facebook{
+  display: inline-block;
+  float: right;}

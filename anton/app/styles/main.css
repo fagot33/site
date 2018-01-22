@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'ExoRegular';
+  src: url('../fonts/ExoRegular.eot');
+  src: url('../fonts/ExoRegular.eot') format('embedded-opentype'),
+  url('../fonts/ExoRegular.woff2') format('woff2'),
+  url('../fonts/ExoRegular.woff') format('woff'),
+  url('../fonts/ExoRegular.ttf') format('truetype'),
+  url('../fonts/ExoRegular.svg#ExoRegular') format('svg');
+}
+
+*{
+  margin:0; padding:0;
+  font-size:inherit;
+  color:inherit;
+  -webkit-font-smoothing: antialiased;
+}
+button::-moz-focus-inner {padding:0;border:0;}
+a {outline:none;
+  text-decoration:none;
+  background-color:transparent;
+  font-size:11px;
+  color:#2d2a2b ;
+}
+
+
+
+
+body {
+  height: auto !important;
+  min-height: 100%;
+  position: relative;
+  background-size: contain;
+  background: #181f1f  no-repeat top center;
+  font-size:13px;
+  text-align: center;
+  color: white;
+}
+.container{
+  height: 515px;
+  background-color: white;
+}
+.sec{
+  background-color: #e1e1e1;
+}
+.tochki{
+color: black;
+font-size: 22pt;
+text-align: center;
+padding-top: 24px;
+}
+.comming{
+  text-transform: uppercase;
+  font-size: 47pt;
+  color: black;
+  padding-top:20px ;
+  font-family: ExoRegular;
+}

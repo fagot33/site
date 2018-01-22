@@ -1,0 +1,151 @@
+*{
+  margin:0; padding:0;
+  font-size:inherit;
+  color:inherit;
+  -webkit-font-smoothing: antialiased;
+}
+button::-moz-focus-inner {padding:0;border:0;}
+a {outline:none;
+  text-decoration:none;
+  background-color:transparent;
+  background-size: contain;
+
+  font-size:11px;
+  color:#2d2a2b ;
+}
+
+
+
+
+body {
+  height: auto !important;
+  min-height: 100%;
+  position: relative;
+
+  font-size:56px;
+  text-align: center;
+  color: yellow;
+
+}
+.clearfix{
+  clear: both;
+}
+header{
+  background-color: #af2024;
+}
+.hea_container{
+  max-width: 960px;
+  width: 100%;
+  height: 40px;
+  display: inline-block;
+
+
+
+
+}
+.sec_container{
+  max-width: 960px;
+  width: 100%;
+  display: inline-block;
+
+}
+.logo{
+  float: left;
+margin-top: 19px;
+  margin-bottom: 22px;
+}
+section{
+background-image: url("../images/back_04_02.png");
+  background-size: cover;
+}
+
+.form{
+  width: 100%;
+  max-width: 705px;
+  margin-left: 138px;
+  margin-bottom: 350px;
+}
+h2{
+  color: white;
+  font-family: 'Arvo', serif;
+  font-weight: bold;
+  font-size: 20pt;
+  text-align: left;
+}
+.text{
+  margin: auto;
+  padding: 26px 0 27px 18px;
+  background-color: #af2024;
+
+}
+.gl{
+  background-color: white;
+  padding: 62px 69px 128px 74px;
+}
+.player{
+  width: 100%;
+  background-color: gray;
+  max-width: 570px;
+  height: 350px;
+
+  position: relative;
+  margin-bottom:32px;
+}
+.kn{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -21px;
+  margin-top: -30px;
+}
+
+.fa-play{
+  color: black;
+}
+.fa{
+}
+.text1{
+  font-size: 12pt;
+  font-family: "Myriad Pro",sans-serif;
+  color:#98161b;
+  text-align: left;
+  padding-right: 34px;
+  line-height: 18pt;
+}
+.icons{
+  position: fixed;
+  top: 320px;
+  right: 1px;
+
+}
+
+.fa-facebook-official{
+  color: #990000;
+  padding-bottom: 2px;
+  font-size: 50px;
+
+
+
+}
+
+.icons1{
+  position: fixed;
+  right: 1px;
+  top:370px;
+}
+.menu{
+  max-width: 960px;
+  width: 100%;
+  height: 40px;
+}
+
+li{
+  float: left;
+  display: inline-block;
+  width: 12.5%;
+  size: 15px;
+  text-align: center;
+  color: #850409;
+  padding-left: 17px;
+  padding-right: 18px;
+}

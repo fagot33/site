@@ -1,0 +1,36 @@
+
+
+
+*{
+  margin:0; padding:0;
+  font-size:inherit;
+  color:inherit;
+  -webkit-font-smoothing: antialiased;
+}
+button::-moz-focus-inner {padding:0;border:0;}
+a {outline:none;
+  text-decoration:none;
+  background-color:transparent;
+  font-size:11px;
+  color:#2d2a2b ;
+}
+
+
+
+
+body {
+  height: auto !important;
+  min-height: 100%;
+  position: relative;
+  background-size: contain;
+
+  font-size:56px;
+  text-align: center;
+  color: green;
+
+
+
+}
+.clearfix{
+  clear: both;
+}
