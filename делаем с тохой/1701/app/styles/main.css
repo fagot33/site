@@ -27,3 +27,70 @@ body {
   color: green;
 
 }
+.container_head{
+  max-width: 1920px;
+  width: 100%;
+  background-color: gray;
+  padding-left: 142px;
+}
+.cont{
+  width: 809px;
+  background-color: white;
+}
+.head_text1{
+ font-size: 24px;
+  color: black;
+  padding-top: 430px;
+  padding-left: 66px;
+  padding-right: 90px;
+  text-align: left;
+}
+.foot{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 369px;
+}
+.tech{
+  width: 100%;
+  font-size: 25px;
+  float: left;
+  background-color: #4f86a0;
+  -webkit-border-radius: 60px 0px 0px 60px;
+  border-radius: 60px 0px 0px 60px;
+
+}
+.Ent{
+  width: 25%;
+float: left;
+  background-color: #03246c;
+}
+.pro{
+  width: 25%;
+  float: left;
+  background-color: #028090;
+}
+.dir{
+ width: 25%;
+  float: left;
+  background-color: #28aeaf;
+}
+span{
+
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+.clearfix{
+clear: both;
+}
+.ober_foot{
+  border-left: 12px solid black;
+  padding-right: 1px;
+}
+.tech_b{
+  width: 25%;
+  float: left;
+  display: block;
+  border-right: 2px solid black;
+  padding-right: 0 ;
+}
