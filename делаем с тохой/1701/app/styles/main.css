@@ -51,46 +51,37 @@ body {
   padding-top: 369px;
 }
 .tech{
-  width: 100%;
-  font-size: 25px;
-  float: left;
-  background-color: #4f86a0;
+  height: 41px;
+ font-size: 20px;
+  background-color:black;
   -webkit-border-radius: 60px 0px 0px 60px;
   border-radius: 60px 0px 0px 60px;
+    line-height:41px;
+    color: white;
+
 
 }
-.Ent{
-  width: 25%;
-float: left;
-  background-color: #03246c;
-}
-.pro{
-  width: 25%;
-  float: left;
-  background-color: #028090;
-}
-.dir{
- width: 25%;
-  float: left;
-  background-color: #28aeaf;
-}
+
+
 span{
-
-  font-size: 20px;
-  color: black;
-  text-align: center;
+    font-size: 20px;
 }
+
 .clearfix{
 clear: both;
 }
-.ober_foot{
-  border-left: 12px solid black;
-  padding-right: 1px;
-}
-.tech_b{
+
+
+.top_b{
+  padding-top: 10px;
   width: 25%;
   float: left;
   display: block;
   border-right: 2px solid black;
   padding-right: 0 ;
+}
+.top_a span{
+    display: block;
+    color: black;
+    margin-top: 20px;
 }
